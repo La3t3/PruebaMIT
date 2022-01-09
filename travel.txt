@@ -1,0 +1,6 @@
+Lista de equipaje
+---------------------
+Camisas 3
+Pantalones 2
+Calzoncillos 2
+---------------------
